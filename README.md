@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @swimjoshswim18
+- 👀 I am interested in learning more about HTML and CSS
+- 💞️ I would like to Collab on a website I am building in VS Code with HTML and CSS
+- 📫 You can reach me at Swimjoshswim18@gmail.com
